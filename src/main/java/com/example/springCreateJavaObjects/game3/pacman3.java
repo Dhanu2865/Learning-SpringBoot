@@ -1,6 +1,10 @@
-package com.example.LooselyCoupled;
+package com.example.springCreateJavaObjects.game3;
 
-public class pacman implements com.example.LooselyCoupled.gamingConsole {
+import com.example.springCreateJavaObjects.gamingConsole3;
+import org.springframework.stereotype.Component;
+
+@Component
+public class pacman3 implements gamingConsole3 {
     public void up(){
         System.out.println("pacman Game up");
     }

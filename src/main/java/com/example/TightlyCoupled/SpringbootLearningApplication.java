@@ -1,4 +1,4 @@
-package com.example.springboot_learning;
+package com.example.TightlyCoupled;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,8 +1,8 @@
-package com.example.springboot_learning;
+package com.example.TightlyCoupled;
 
-import com.example.springboot_learning.game.GameRunner;
-import com.example.springboot_learning.game.MarioGame;
-import com.example.springboot_learning.game.Snake;
+import com.example.TightlyCoupled.game.GameRunner;
+import com.example.TightlyCoupled.game.MarioGame;
+import com.example.TightlyCoupled.game.Snake;
 
 public class gamingApplicationBasic {
     public static void main(String[] args){

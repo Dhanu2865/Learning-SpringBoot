@@ -1,6 +1,6 @@
-package com.example.LooselyCoupled;
+package com.example.springContext;
 
-public class Mario1 implements gamingConsole {
+public class Mario2 implements gamingConsole2 {
     public void up(){
         System.out.println("Mario1 Game up");
     }

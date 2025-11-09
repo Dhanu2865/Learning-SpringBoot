@@ -1,6 +1,6 @@
-package com.example.LooselyCoupled;
+package com.example.springContext;
 
-public class pacman implements com.example.LooselyCoupled.gamingConsole {
+public class pacman2 implements gamingConsole2 {
     public void up(){
         System.out.println("pacman Game up");
     }

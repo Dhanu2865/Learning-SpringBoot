@@ -1,4 +1,4 @@
-package com.example.springboot_learning.game;
+package com.example.TightlyCoupled.game;
 
 public class MarioGame {
     public void up(){
